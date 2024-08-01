@@ -1,7 +1,8 @@
 ﻿#language: ru
 //
 @tree
-
+@ExportScenarios
+@IgnoreONCIMainBuild
 Функционал: Тестирование документа "Заказ"
 
 Как инженер по продажам я хочу
